@@ -1,0 +1,4 @@
+person
+pack
+helmet
+mask

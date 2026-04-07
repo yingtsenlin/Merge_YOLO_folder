@@ -65,5 +65,5 @@ Target Path (您的工作目錄)/
 
 若要將此工具打包成單一執行檔，請使用以下指令：
 ```bash 
-pyinstaller --onefile --noconsole --clean --name "YOLO_Merger" merge_tool.py
+pyinstaller --onefile --noconsole --clean --name "YOLO_Merger" merge_YOLO.py
 ```
